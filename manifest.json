@@ -13,11 +13,6 @@
       "common.js"
     ]
   },
-  "browser_specific_settings": {
-    "gecko": {
-      "id": "4c50e5b8-2a55-4f80-91e0-61d31892cd9f"
-    }
-  },
   "browser_action": {
     "default_icon": "referee-48.png",
     "default_title": "Referee",
@@ -26,7 +21,7 @@
   },
   "commands": {
     "_execute_browser_action": {
-      "suggested_key": { "default": "Shift+Alt+C" },
+      "suggested_key": { "default": "Shift+Alt+C" }
     }
   },
   "permissions": [
